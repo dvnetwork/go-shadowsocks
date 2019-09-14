@@ -1,4 +1,4 @@
-module github.com/shadowsocks/go-shadowsocks2
+module github.com/dvnetwork/go-shadowsocks
 
 go 1.12
 

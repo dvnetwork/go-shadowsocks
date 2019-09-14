@@ -5,7 +5,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/shadowsocks/go-shadowsocks2/socks"
+	"github.com/dvnetwork/go-shadowsocks/socks"
 )
 
 // Create a SOCKS server listening on addr and proxy to server.
